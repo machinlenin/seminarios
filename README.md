@@ -9,8 +9,9 @@ This repository will hopefully centralize all materials, slides, pdfs and code s
 | ------------- |:-------------:| :----: | :------: |
 | LSA & word2vec | 21.03.2018 | Edgar Stylzer | [slides](https://docs.google.com/presentation/d/????) | 
 | Latent Dirichlet Allocation | 04.04.2018 | Federico Albanese | [slides](https://docs.google.com/presentation/d/????) | 
-| N/A | 03.05.2018 | ? | ? | 
-| N/A | 18.05.2018 | ? | ? | 
+| Text Classification Review, Pt. 1 | 18.04.2018 | [Julian Eisenschols](https://github.com/eisenjulian) | [Colab Notebook](https://colab.research.google.com/drive/1mkYmLH8NHoB3f-EIkp7l6rUPFrfyxdcf) | 
+| Text Classification Review, Pt. 2 | 25.04.2018 | [Julian Eisenschols](https://github.com/eisenjulian) | [Colab Notebook](https://colab.research.google.com/drive/1mkYmLH8NHoB3f-EIkp7l6rUPFrfyxdcf) | 
+| N/A | 07.05.2018 | ? | ? | 
 
 ## Seminar Plans (2017)
 
