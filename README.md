@@ -11,6 +11,7 @@ This repository will hopefully centralize all materials, slides, pdfs and code s
 | Latent Dirichlet Allocation | 04.04.2018 | Federico Albanese | [slides](https://docs.google.com/presentation/d/????) | 
 | Text Classification Review, Pt. 1 | 18.04.2018 | [Julian Eisenschols](https://github.com/eisenjulian) | [Colab Notebook](https://colab.research.google.com/drive/1mkYmLH8NHoB3f-EIkp7l6rUPFrfyxdcf) | 
 | Text Classification Review, Pt. 2 | 25.04.2018 | [Julian Eisenschols](https://github.com/eisenjulian) | [Colab Notebook](https://colab.research.google.com/drive/1mkYmLH8NHoB3f-EIkp7l6rUPFrfyxdcf) | 
+| Sequence Labeling | 27.06.2018 | [Milagro Teruel](https://github.com/mit0110) | [slides + github](https://github.com/mit0110/simpleSequenceClassification) | 
 | N/A | 07.05.2018 | ? | ? | 
 
 ## Seminar Plans (2017)
