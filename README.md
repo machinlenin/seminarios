@@ -9,7 +9,7 @@ This repository will hopefully centralize all materials, slides, pdfs and code s
 | Theme         | Date          | Author | Material | 
 | ------------- |:-------------:| :----: | :------: |
 | NLP: ¿Dónde estamos y a dónde vamos? | 11.04.19 | [Francisco Ingham](https://github.com/fpingham) | [slides](https://docs.google.com/presentation/d/1K_mD9Q8hixOKnLDSa-Regp6FH9zc5DRiwvSk7I3qMP0/edit?usp=sharing) | 
-|  | 15.03.19 | [Pablo Zivic](https://ar.linkedin.com/in/pablozivic) | [slides](https://docs.google.com/presentation/d/1Ay7kHpbeZH2jJKeMzyJnLSa4g4-Yep0-v-OiNcTX268/edit#slide=id.g4eaa901bc1_0_734) | 
+| With great complexity comes great regularization | 15.03.19 | [Pablo Zivic](https://ar.linkedin.com/in/pablozivic) | [slides](https://docs.google.com/presentation/d/1Ay7kHpbeZH2jJKeMzyJnLSa4g4-Yep0-v-OiNcTX268/edit#slide=id.g4eaa901bc1_0_734), [video](https://youtu.be/vvCbPrqXDTQ) | 
 
 ## Seminars (2018)
 
