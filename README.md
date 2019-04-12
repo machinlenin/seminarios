@@ -16,9 +16,9 @@ This repository will hopefully centralize all materials, slides, pdfs and code s
 | Theme         | Date          | Author | Material | 
 | ------------- |:-------------:| :----: | :------: |
 | Analisis de Redes: comunidades aprendizaje y biologia | 12.12.18 | [Agustín Somacal](https://ar.linkedin.com/in/agustin-somacal-737b85a2) | [slides](https://slack-files.com/T6ZK5LS3E-FETKX5ETS-3fd138172a) | 
-| Computer Vision: Deep Learning Approach | 281.11.18 | [Ivan Itzcovich](https://github.com/iitzco) | [slides](https://slack-files.com/T6ZK5LS3E-FEH8BQNK0-cac770d0a5) | 
+| Computer Vision: Deep Learning Approach | 28.11.18 | [Ivan Itzcovich](https://github.com/iitzco) | [slides](https://slack-files.com/T6ZK5LS3E-FEH8BQNK0-cac770d0a5) | 
 | Tecnicas de ML para aplicadas a redes sociales y de comunicacoines | 14.11.18 | [Martin Fixman](https://github.com/Fixman) | ? | 
-| DL para analisis de imagenes medicas | 7.11.18 | [Enzo Ferrante](https://eferrante.github.io/) | ? | 
+| DL para analisis de imagenes medicas | 07.11.18 | [Enzo Ferrante](https://eferrante.github.io/) | ? | 
 | Clasificacion de imagenes de prescripciones médicas | 24.10.18 | [Hugo Ferrero](https://www.linkedin.com/in/hugo-ferrero-314315143/) | ? | 
 | Transfer Learning en imágenes satelitales para deteccion de residencias | 24.10.18 | [Damian Silvani](https://github.com/munshkr) | ? | 
 | Image Transfer Learning | 10.10.18 | [Jorge Collinet](https://github.com/jorgeCollinet) | [slides1](https://drive.google.com/open?id=1YgkKy6q8QaBXb2liRhoToq-OVCW1k7zcrQ5ZdpZC2pY), [slides2](https://drive.google.com/open?id=1JNvThRIVZxIUK11FRFhlb-lIR1tVNZt0), [carpeta con ejercicios](https://drive.google.com/open?id=1sFMyMRvmGFkTu_6VGFITY3dplxGxlyjU)  | 
@@ -30,9 +30,9 @@ y tendencias (masivas) en Twitter | 22.08.18 | [Pablo Celayes](https://github.co
 | Word Embeddings: W2V, Glove, FastText | 13.06.18 | [Maria Francesca Gaska]() | [slides](https://slack-files.com/T6ZK5LS3E-FB9V62MUL-b22c7c3503)| 
 | Dimensionality Reduction via weighted geodesic distances | 30.05.18 | [Facundo Sapienza](https://github.com/facusapienza21) | [slides](https://slack-files.com/T6ZK5LS3E-FAYLEMQ76-28df885038), [repo1](https://github.com/facusapienza21/d-distance), [repo2](https://github.com/facusapienza21/dimensionality-reduction) | 
 | Calculo de energia cuantica molecular con DL | 16.05.18 | [Adrián Roitberg](https://roitberg.chem.ufl.edu/) | [paper](https://arxiv.org/abs/1610.08935), [repo](https://github.com/isayev/ASE_ANI) | 
-| Text Classification Review, Pt. 2 | 25.04.18 | [Julian Eisenschols](https://github.com/eisenjulian) | [Colab Notebook](https://colab.research.google.com/drive/1mkYmLH8NHoB3f-EIkp7l6rUPFrfyxdcf) | 
-| Text Classification Review, Pt. 1 | 18.04.18 | [Julian Eisenschols](https://github.com/eisenjulian) | [Colab Notebook](https://colab.research.google.com/drive/1mkYmLH8NHoB3f-EIkp7l6rUPFrfyxdcf) | 
-| Latent Dirichlet Allocation | 04.04.18 | Federico Albanese | [slides](https://docs.google.com/presentation/d/????) | 
+| Text Classification Review, Pt. 2 | 25.04.18 | [Julian Eisenschlos](https://github.com/eisenjulian) | [Colab Notebook](https://colab.research.google.com/drive/1mkYmLH8NHoB3f-EIkp7l6rUPFrfyxdcf) | 
+| Text Classification Review, Pt. 1 | 18.04.18 | [Julian Eisenschlos](https://github.com/eisenjulian) | [Colab Notebook](https://colab.research.google.com/drive/1mkYmLH8NHoB3f-EIkp7l6rUPFrfyxdcf) | 
+| Latent Dirichlet Allocation | 04.04.18 | [Federico Albanese](http://www.ic.fcen.uba.ar/en/institution/staff/federico-albanese) | [slides](https://docs.google.com/presentation/d/????) | 
 | LSA & word2vec | 21.03.18 | Edgar Stylzer | [slides](https://slack-files.com/T6ZK5LS3E-F9VD2GERM-3a7d6797fa) | 
 
 
