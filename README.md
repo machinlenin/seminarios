@@ -8,6 +8,8 @@ This repository will hopefully centralize all materials, slides, pdfs and code s
 
 | Theme         | Date          | Author | Material | 
 | ------------- |:-------------:| :----: | :------: |
+|¿Sueñan los gatos robot con ratones eléctricos?: Seguridad y Machine Learning, un caso con pdfs | 09.05.19 | [Dr. Juan Heguiabehere](http://web.fi.uba.ar/~jheguiabehere/) | [slides](https://docs.google.com/presentation/d/1uFhIFqFjMpxkEK3Hed0u2qY5RLeU1M6MorIhSM2cdh0)
+| Transformers: Mecanismos de atención | 25.04.19 | [Matías Battocchia](https://github.com/matiasbattocchia) | [slides](https://docs.google.com/presentation/d/1CbSZdpIWn_GEv3xblm7MjMK6CAny79t0ntNWhLeg9Sk/edit#slide=id.p) |
 | NLP: ¿Dónde estamos y a dónde vamos? | 11.04.19 | [Francisco Ingham](https://github.com/fpingham) | [slides](https://docs.google.com/presentation/d/1K_mD9Q8hixOKnLDSa-Regp6FH9zc5DRiwvSk7I3qMP0/edit?usp=sharing) | 
 | With great complexity comes great regularization | 15.03.19 | [Pablo Zivic](https://ar.linkedin.com/in/pablozivic) | [slides](https://docs.google.com/presentation/d/1Ay7kHpbeZH2jJKeMzyJnLSa4g4-Yep0-v-OiNcTX268/edit#slide=id.g4eaa901bc1_0_734), [video](https://youtu.be/vvCbPrqXDTQ) | 
 
