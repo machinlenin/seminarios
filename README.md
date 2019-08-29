@@ -3,7 +3,14 @@
 This repository will hopefully centralize all materials, slides, pdfs and code shared and learned at the Machine Learning Seminar. The seminar is currently hosted in the [Instituto de Calculo de Buenos Aires](www.ic.fcen.uba.ar), located in the [Facultad de Ciencias Exactas y Naturales (UBA)](https://exactas.uba.ar/). We are open to other hosts if possible!
 
 
+### Content ownership 
 
+All of the content herein is not owned nor authored by MachinLenin or the UBA. The owners of the material are described/stated within the material itself. This content is shown here under fair use, for nonprofit educational purposes. It might contain copyrighted material the use of which might have not always been specifically authorized by the copyright owner.
+
+
+Some of the content and/or material was uploaded by us to a public Google Drive Folder as a mean of providing access to this material. Still, this does not modify/alter owner/authorship of that content.
+You can find some of these works [in here.](https://drive.google.com/drive/folders/1vg-sN1jVUC58D7_MzsBTSzcaqfHsi4bH?usp=sharing
+)
 ## Seminars (2019)
 
 | Theme         | Date          | Author | Material | 
