@@ -11,11 +11,18 @@ All of the content herein is not owned nor authored by MachinLenin or the UBA. T
 Some of the content and/or material was uploaded by us to a public Google Drive Folder as a mean of providing access to this material. Still, this does not modify/alter owner/authorship of that content.
 You can find some of these works [in here.](https://drive.google.com/drive/folders/1vg-sN1jVUC58D7_MzsBTSzcaqfHsi4bH?usp=sharing
 )
+
+
 ## Seminars (2019)
 
-| Theme         | Date          | Author | Material | 
+| Title         | Date          | Author | Material | 
 | ------------- |:-------------:| :----: | :------: |
-|¿Sueñan los gatos robot con ratones eléctricos?: Seguridad y Machine Learning, un caso con pdfs | 09.05.19 | [Dr. Juan Heguiabehere](http://web.fi.uba.ar/~jheguiabehere/) | [slides](https://docs.google.com/presentation/d/1uFhIFqFjMpxkEK3Hed0u2qY5RLeU1M6MorIhSM2cdh0)
+| Discriminante lineal mediante regularización con penalización mixta | 22.08.19 | [Victoria Peterson](https://www.researchgate.net/profile/Victoria_Peterson2) | [slides](https://drive.google.com/open?id=1iWgg9IS3rn7SYmRhQyAo32_gRIBWBLLx) |
+| Descubrimiento de factores latentes: un enfoque adversarial | 08.08.19 | [Esteban Tabak](https://math.nyu.edu/people/profiles/TABAK_Esteban.html) | [slides](https://drive.google.com/open?id=1Z0Uovb6lkRytchZOpNm5W-UcxR62RQIA) [live-stream](youtube.com/watch?v=W8AT5CIFFeE) |
+| Optimal Real-Time Bidding: A Dual Approach | 04.07.19 | [Carlos Pita](https://github.com/memeplex) | [slides](https://drive.google.com/file/d/15QDuS3h1I2E77rGYWG5JGEWAZONHyU6w/view) |
+| Introducción al Aprendizaje Reforzado (Parte II) | 19.06.19 | [Javier Kreiner](https://www.linkedin.com/in/javierkreiner/) [Julian Martinez](http://mate.dm.uba.ar/~jmartine/) | [slides](https://drive.google.com/open?id=1NOxS7FdFKAUDE6kSI4smsuS7pp0_1KQq) [live-stream](https://youtu.be/N7UueSdZJaQ) |
+| Introducción al Aprendizaje Reforzado (Parte I) | 31.05.19 | [Javier Kreiner](https://www.linkedin.com/in/javierkreiner/) [Julian Martinez](http://mate.dm.uba.ar/~jmartine/) | [slides](https://docs.google.com/presentation/d/1cHXIMImB6oqQ28CO50AyxPGaSiNFoh2CSdmD5DsuxOM/edit?usp=sharing) [live-stream](https://youtu.be/nio4AsWq7ic) |
+|¿Sueñan los gatos robot con ratones eléctricos?: Seguridad y Machine Learning, un caso con pdfs | 09.05.19 | [Juan Heguiabehere](http://web.fi.uba.ar/~jheguiabehere/) | [slides](https://docs.google.com/presentation/d/1uFhIFqFjMpxkEK3Hed0u2qY5RLeU1M6MorIhSM2cdh0)
 | Transformers: Mecanismos de atención | 25.04.19 | [Matías Battocchia](https://github.com/matiasbattocchia) | [slides](https://docs.google.com/presentation/d/1CbSZdpIWn_GEv3xblm7MjMK6CAny79t0ntNWhLeg9Sk/edit#slide=id.p) |
 | NLP: ¿Dónde estamos y a dónde vamos? | 11.04.19 | [Francisco Ingham](https://github.com/fpingham) | [slides](https://docs.google.com/presentation/d/1K_mD9Q8hixOKnLDSa-Regp6FH9zc5DRiwvSk7I3qMP0/edit?usp=sharing) | 
 | With great complexity comes great regularization | 15.03.19 | [Pablo Zivic](https://ar.linkedin.com/in/pablozivic) | [slides](https://docs.google.com/presentation/d/1Ay7kHpbeZH2jJKeMzyJnLSa4g4-Yep0-v-OiNcTX268/edit#slide=id.g4eaa901bc1_0_734), [video](https://youtu.be/vvCbPrqXDTQ) | 
