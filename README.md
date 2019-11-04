@@ -17,6 +17,9 @@ You can find some of these works [in here.](https://drive.google.com/drive/folde
 
 | Title         | Date          | Author | Material | 
 | ------------- |:-------------:| :----: | :------: |
+| Machínleninismo en el Large-Hadron Collider | 19.09.19 | [Gustavo Otero y Garzón](https://www.df.uba.ar/es/investigadores1/investigadores-y-becarios/miembro/42-Gustavo_Javier_Otero_Y_Garzon) | slides? - [live-stream](https://youtu.be/yFk-Jd5xftI) |
+| Towards Human-Centered Machine Learning | 17.09.19 | [Mateusz Dymczyk](https://github.com/mdymczyk) | [slides](https://drive.google.com/file/d/1dYlOk_55CT0QNmgetGXFbE7k0Shr12dp/view?usp=sharing) |
+| Métodos de imputación de datos faltantes en encuestas a hogares basados en Machine Learning | 05.09.19 | [German Rosatti](https://gefero.github.io/) | slides? [repository](https://github.com/gefero/ML_imputation) |
 | Discriminante lineal mediante regularización con penalización mixta | 22.08.19 | [Victoria Peterson](https://www.researchgate.net/profile/Victoria_Peterson2) | [slides](https://drive.google.com/open?id=1iWgg9IS3rn7SYmRhQyAo32_gRIBWBLLx) |
 | Descubrimiento de factores latentes: un enfoque adversarial | 08.08.19 | [Esteban Tabak](https://math.nyu.edu/people/profiles/TABAK_Esteban.html) | [slides](https://drive.google.com/open?id=1Z0Uovb6lkRytchZOpNm5W-UcxR62RQIA) [live-stream](youtube.com/watch?v=W8AT5CIFFeE) |
 | Optimal Real-Time Bidding: A Dual Approach | 04.07.19 | [Carlos Pita](https://github.com/memeplex) | [slides](https://drive.google.com/file/d/15QDuS3h1I2E77rGYWG5JGEWAZONHyU6w/view) |
