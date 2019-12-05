@@ -15,8 +15,10 @@ You can find some of these works [in here.](https://drive.google.com/drive/folde
 
 ## Seminars (2019)
 
+
 | Title         | Date          | Author | Material | 
 | ------------- |:-------------:| :----: | :------: |
+| GANS y Radares en el SMN (Seminario MachinLenin) | 05.12.19 | [Mailen Gómez Mayol](https://ar.linkedin.com/in/mailen-g%C3%B3mez-mayol-09376749) [Maximiliano Sacco](https://ar.linkedin.com/in/maximilianosacco/) | [slides](https://drive.google.com/file/d/1s3qONMGq3W0F0AZrJW5YSgoGcuQojx8D/view?usp=sharing) |
 | Machínleninismo en el Large-Hadron Collider | 19.09.19 | [Gustavo Otero y Garzón](https://www.df.uba.ar/es/investigadores1/investigadores-y-becarios/miembro/42-Gustavo_Javier_Otero_Y_Garzon) | slides? - [live-stream](https://youtu.be/yFk-Jd5xftI) |
 | Towards Human-Centered Machine Learning | 17.09.19 | [Mateusz Dymczyk](https://github.com/mdymczyk) | [slides](https://drive.google.com/file/d/1dYlOk_55CT0QNmgetGXFbE7k0Shr12dp/view?usp=sharing) |
 | Métodos de imputación de datos faltantes en encuestas a hogares basados en Machine Learning | 05.09.19 | [German Rosatti](https://gefero.github.io/) | slides? [repository](https://github.com/gefero/ML_imputation) |
